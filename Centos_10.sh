@@ -4,3 +4,4 @@ sudo yum upgrade
 sudo nproc
 sudo top
 sudo lsblk
+sudo useradd devops-group
