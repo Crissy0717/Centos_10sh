@@ -8,3 +8,4 @@ sudo useradd devops-group
 sudo useradd liberia
 sudo groupadd soccer
 sudo groupadd ministers
+sudo ping
