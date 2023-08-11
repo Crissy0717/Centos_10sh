@@ -7,3 +7,4 @@ sudo lsblk #used th check the size of your disk
 sudo useradd devops-group
 sudo useradd liberia
 sudo groupadd soccer
+sudo groupadd ministers
